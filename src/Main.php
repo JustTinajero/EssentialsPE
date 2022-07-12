@@ -1,5 +1,12 @@
 <?php
-
+# T
+# I
+# N
+# A
+# J
+# E
+# R
+# O
 namespace Tinajero\EssentialsPE;
 
 use pocketmine\plugin\PluginBase;
