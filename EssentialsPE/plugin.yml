@@ -1,7 +1,0 @@
----
-name: EssentialsPE
-version: 0.1
-main: Tinajero\EssentialsPE\Main
-api: 4.0.0
-src-namespace-prefix: Tinajero\EssentialsPE
-...
