@@ -1,5 +1,5 @@
 # EssentialsPE
-Pocketmine 4.0.0 plugin with essential commands.
+Pocketmine 4.0.0 plugin with essential commands. <img align="left" alt="EssentialsPE" width="44px" src="https://github.com/JustTinajero/EssentialsPE/blob/main/EssentialsPE.jpg" />
 
 # Commands
 /gmc - Turns your gamemode to creative
